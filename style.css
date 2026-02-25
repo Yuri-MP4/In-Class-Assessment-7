@@ -4,11 +4,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 h1 {
-font-family: helvetica;
+font-family: Helvetica;
 }
 
 h1 {
@@ -25,6 +25,7 @@ width: 100vw;
 }
 
 .caption {
+  text-align: center;
   color: cadetblue;
   font-style: italic;
 }
@@ -38,6 +39,7 @@ a:visited{
 }
 
 a:hover{
+  color: magenta;
   text-decoration: none;
 }
 
