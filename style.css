@@ -1,5 +1,13 @@
 /*Add your CSS here*/
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Oswald, sans-serif;
+  color: #333;
+}
+
 
 
 
