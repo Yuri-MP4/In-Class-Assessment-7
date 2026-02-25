@@ -1,11 +1,23 @@
 /*Add your CSS here*/
 
 * {
+  font-family: sans-serif;
+  font-size: 16px;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  font-family: Oswald, sans-serif;
-  color: #333;
+}
+
+h1 {
+font-family: helvetica;
+}
+
+h1 {
+color: darkseagreen;
+}
+
+img {
+width: 100vw;
+  height: auto;
 }
 
 
